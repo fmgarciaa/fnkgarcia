@@ -1,5 +1,5 @@
-<h2 align="center">Hello There! 👋, I'm Franklin </h2>
-<p align="center">I'm software developer, currently working on data science and automatizations.  </p>
+<h2 align="center">Hello! 👋, Franklin here!</h2>
+<p align="center">I'm software developer, currently working on data science and automatizations. <img src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761156cf4ba7980109d6933ed837c38ce935192351c3&rid=giphy.gif&ct=g' width='327'></p>
 
 ----
 [![Twitter](https://img.shields.io/twitter/follow/fmgarcia_?style=social)](https://twitter.com/fmgarcia_)
@@ -15,14 +15,14 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name = 'Franklin Garcia'
-        self.role = ['Data_Science','Backend']
+        self.role = ['Data_Science', 'Backend']
         self.language_spoken = ['es_ES', 'en_US']
 
     def skills(self):
-        self.code = ['python','javascript', 'SQL', 'VBA']
-        self.tools_datascience = ['scikit-learn','tenserflow','pandas','numpy']
+        self.code = ['python', 'javascript', 'SQL', 'VBA']
+        self.tools_datascience = ['scikit-learn', 'tenserflow', 'pandas', 'numpy']
         self.tools_backend = ['django', 'DRF', 'node.js']
-        self.tools_others = ['react.js','docker', 'tableau']
+        self.tools_others = ['react.js', 'docker', 'tableau']
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
