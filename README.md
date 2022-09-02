@@ -1,6 +1,6 @@
 <h2 align="center">Hello! 👋, Franklin here!</h2>
 <p align="center">I'm software developer, currently working on data science and automatizations.</p>
-<img src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761156cf4ba7980109d6933ed837c38ce935192351c3&rid=giphy.gif&ct=g' width='327' style="vertical-align:top">
+<img src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761156cf4ba7980109d6933ed837c38ce935192351c3&rid=giphy.gif&ct=g' width='327' style="vertical-align:middle">
 
 ----
 [![Twitter](https://img.shields.io/twitter/follow/fmgarcia_?style=social)](https://twitter.com/fmgarcia_)
