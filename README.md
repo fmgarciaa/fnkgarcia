@@ -12,6 +12,8 @@
 [![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=&logo=Deepnote&logoColor=white)](https://deepnote.com/@franklin-garcia)
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=&logo=platzi&logoColor=white)](https://platzi.com/p/fmgarcia/)
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
