@@ -6,7 +6,7 @@
 
 ----
 [![Twitter](https://img.shields.io/twitter/follow/fmgarcia_?style=social)](https://twitter.com/fmgarcia_)
-[![Linkedin](https://img.shields.io/badge/-fmanuelgarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmanuelgarcia/)](https://www.linkedin.com/in/fmanuelgarcia/)
+[![Linkedin](https://img.shields.io/badge/-fnkgarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmanuelgarcia/)](https://www.linkedin.com/in/fmanuelgarcia/)
 [![GitHub](https://img.shields.io/github/followers/fmanuelgarcia?label=follow&style=social)](https://github.com/fmanuelgarcia)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=&logo=Kaggle&logoColor=white)]()
 [![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=&logo=Deepnote&logoColor=white)](https://deepnote.com/@franklin-garcia)
